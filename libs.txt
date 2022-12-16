@@ -1,0 +1,4 @@
+Install
+cpr
+easyloggingpp
+nlohmann-json
